@@ -1,4 +1,4 @@
-# AI-assisted TLS Key Material Detection from Memory
+# TLS Forensics: AI-assisted TLS Key Material Detection from Memory
 
 This project implements a memory forensics tool to identify TLS key material using machine learning.
 
